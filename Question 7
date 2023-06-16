@@ -1,0 +1,36 @@
+Q7) Calculate Mean, Median, Mode, Variance, Standard Deviation, Range &     comment about the values / draw inferences, for the given dataset
+    • For Points,Score,Weigh>
+Find Mean, Median, Mode, Variance, Standard Deviation, and Range and also Comment about the values/ Draw some inferences.
+
+Use Q7.csv file 
+
+Points
+Score 
+Weight
+MEAN
+3.5965625
+3.21725
+17.84875
+MEDIAN
+3.695
+3.325
+17.71
+MODE
+3.07
+3.44
+17.02
+VARIANCE
+0.285881350806452
+0.957378967741936
+3.19316612903226
+STD
+0.534678736070972
+0.978457442989697
+1.78694323609684
+RANGE
+2.17
+3.911
+8.4
+
+
+
