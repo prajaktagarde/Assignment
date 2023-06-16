@@ -1,0 +1,25 @@
+Q6) Calculate the Expected number of candies for a randomly selected child 
+Below are the probabilities of count of candies for children (ignoring the nature of the child-Generalized view)
+CHILD
+Candies count
+Probability
+A
+1
+0.015
+B
+4
+0.20
+C
+3
+0.65
+D
+5
+0.005
+E
+6
+0.01
+F
+2
+0.120
+Child A – probability of having 1 candy = 0.015.
+Child B – probability of having 4 candies = 0.20
